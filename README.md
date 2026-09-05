@@ -7,7 +7,7 @@
 ### `CS + Business Systems` · `Builder` · `Creative Thinker` · `Curious Learner`
 
 <p>
-  <a href="mailto:lakshita.chawla1208@email.com">📩 Email</a> &nbsp; • &nbsp;
+  <a href="mailto:lakshitachawla1208@email.com">📩 Email</a> &nbsp; • &nbsp;
   <a href="https://www.linkedin.com/">💼 LinkedIn</a> &nbsp; • &nbsp;
   <a href="https://github.com/">🐙 GitHub</a>
 </p>
@@ -234,7 +234,7 @@ If you're building something interesting around **technology, innovation, health
 
 <div align="center">
 
-📩 **lakshita.chawla1208@email.com**
+📩 **lakshitachawla1208@email.com**
 
 ### ⭐ Thanks for visiting my corner of GitHub!
 
